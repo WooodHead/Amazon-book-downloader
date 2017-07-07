@@ -25,8 +25,7 @@
       "js": [
         "bower_components/jquery/dist/jquery.js",
         "bower_components/angular/angular.min.js",
-        "scripts.babel/contentscript.js",
-        "libgen/examples/get_latest_text.js"
+        "scripts.babel/contentscript.js"
       ],
       "run_at": "document_end",
       "all_frames": false
